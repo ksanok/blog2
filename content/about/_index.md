@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Senior at Harvard College"
-featured_image: "/images/Sanok_Kyle.png"
+featured_image: ""
 ---
 {{< figure src="/images/Sanok_Kyle.png" title="" >}}
 

@@ -1,8 +1,8 @@
 ---
-date: 
+date: 2017-03-02T12:00:00-05:00
 description: "Post 1"
 featured_image: ""
-tags: ["first"]
+tags: ["first", "post", "blog", "productivity", "harvard", "corona", "college", "senior"]
 title: "My first post"
 ---
 
