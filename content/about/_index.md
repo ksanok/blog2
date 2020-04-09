@@ -5,4 +5,6 @@ featured_image: ''
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Welcome to my website! My name is Kyle Sanok, a senior at Harvard who grew up right outside Washington D.C. in Northern Virginia. I currently study applied mathematics with a focus in data science, and I have a secondary (minor) in archaeology. 
+
+Expect blog posts, thoughts, and random other information on this website. Please do not hesistate to reach out below! 
