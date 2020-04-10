@@ -6,7 +6,7 @@ date: "2020-04-06T09:12:14-04:00"
 publishDate: "2020-04-06T09:12:14-04:00"
 ---
 
-Well here it goes! My first blog post. 
+Here it goes! My first blog post. 
 
 Well I should clarify, this is my first personal blog post. We have all had to do that one assignment for class writing them, but this one is now for me. Living in quarentine provides a bit more free time (as everyone knows) to pursue side projects, and I have always wanted to start my own website. 
 
